@@ -1,0 +1,56 @@
+{ 
+    "basics": {
+        "name": "Tamil selvan",
+        "label": "Programmer",
+            "email": "tamilrocks24@gmail.com",
+        "phone": "9876543210",
+        "location": {
+          "address": "111 ccc fff",
+          "postalCode": "d3 3456",
+          "city": "xxccvvb",
+          "country": "India"}
+          
+        },
+   
+    "work": [{
+      "name": "Company",
+      "position": "Leader",
+          "startDate": "2020-08-17",
+        "summary": "Description…"
+         
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development"
+        }],
+    "certificates": [{
+      "name": "Web developer",
+          "issuer": "Guvi",
+      "url": "https://certificate.com"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English"
+              }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }]
+
+    }
